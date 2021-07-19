@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pablo Rosa 
+- 👀 I’m interested in automatize as much as i can every task using Python.
+- 🌱 I’m currently imporving my skills in Python and Data Science and Machine Learning skills. Also learning SQL and Spark
+- ⚙️ I’m looking to collaborate on proyects ralated Machine Learning and Data Science.
+- 📫 How to reach me: pablo.rosa@mercadolibre.com
