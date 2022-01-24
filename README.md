@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Pablo Rosa 
-- 👀 I’m interested in automatize as much as i can every task using Python .
-- 🌱 I’m currently imporving my Python, Data Science and Machine Learning skills. Also learning SQL and Spark
+- 👋 Hi, I’m Pablo Rosa. Nice to meet you
+- 👀 I’m a Data scientist chasing have as many active cards as possible for users with a Mercado Pago account.
+- ⚙️ Focused in automatize as much as possible.
+- 🌱 I’m always imporving my Python, SQL and Machine Learning skills.
 - ⚙️ I’m looking to collaborate on proyects ralated on Data Science and Machine Learning.
 - 📫 How to reach me: pablo.rosa@mercadolibre.com
